@@ -39,4 +39,4 @@ git clone --recurse-submodules https://github.com/raspberrypi/pico-sdk.git
 
 ## 🔌 Kopplingsschema 
 
-(https://sdmntpritalynorth.oaiusercontent.com/files/00000000-98b0-6246-82a2-fb1b48e0b0d4/raw?se=2025-04-23T14%3A05%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=a4c217d9-09bd-5373-b028-953f239d7530&skoid=54ae6e2b-352e-4235-bc96-afa2512cc978&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-23T12%3A34%3A38Z&ske=2025-04-24T12%3A34%3A38Z&sks=b&skv=2024-08-04&sig=tRexg48pZSD%2B4zQqUphh13Tx7LuXvgmf1VLjUmZ43uI%3D)![image](https://github.com/user-attachments/assets/fd89d382-b0a2-4232-96d3-f008b07dedb7)
+![image](https://github.com/user-attachments/assets/eda120b8-760e-473b-aaed-889d6941b003)
