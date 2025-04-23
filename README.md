@@ -37,8 +37,6 @@ git clone --recurse-submodules https://github.com/raspberrypi/pico-sdk.git
 | I2C LCD         | SDA (GPIO 4), SCL (GPIO 5) |
 | WiFi            | Inbyggt i Pico W |
 
-## 🔌 Kopplingsschema (textbaserat)
+## 🔌 Kopplingsschema 
 
-[Pico W] [HC-SR04] [LCD] [LED] [Buzzer] 17 -------- Trigger
-16 <-------- Echo 4 -------- SDA (I2C) 5 -------- SCL (I2C) 15 --------> LED (+) ---|>|--- 330Ω --- GND 14 --------> Buzzer + GND ---------------------------- GND 3.3V ---------------------------- VCC (LCD + HC-SR04)
-====
+(https://sdmntpritalynorth.oaiusercontent.com/files/00000000-98b0-6246-82a2-fb1b48e0b0d4/raw?se=2025-04-23T14%3A05%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=a4c217d9-09bd-5373-b028-953f239d7530&skoid=54ae6e2b-352e-4235-bc96-afa2512cc978&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-23T12%3A34%3A38Z&ske=2025-04-24T12%3A34%3A38Z&sks=b&skv=2024-08-04&sig=tRexg48pZSD%2B4zQqUphh13Tx7LuXvgmf1VLjUmZ43uI%3D)![image](https://github.com/user-attachments/assets/fd89d382-b0a2-4232-96d3-f008b07dedb7)
