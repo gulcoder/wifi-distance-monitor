@@ -36,8 +36,6 @@ int main(){
 
 	    }
 
-
-
     else{
 	    lcd_clear();
 	    lcd_set_cursor(0, 0);
@@ -49,9 +47,6 @@ int main(){
     datetime_init();
     led_init();
 
-   
-  
-
     while(true){
 	    double distance = ultrasonic_read_cm();
 	    char buffer[32] = {0};
@@ -60,9 +55,6 @@ int main(){
 	    lcd_set_cursor(0, 0);
 	    snprintf(buffer, sizeof(buffer), "Avstand: %1f cm", distance);
 	    lcd_print(buffer);
-
-
-
 
 
 	    if (now){
