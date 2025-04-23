@@ -1,0 +1,19 @@
+build/
+*.uf2
+*.o
+*.elf
+*.bin
+*.map
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+#Editor-filer
+*.swp
+*.DS_Store
+.vscode/
+.idea/
+

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # 📡 WiFi Avståndsmätare med Tid, Buzzer & LED
 
 Ett projekt med Raspberry Pi Pico W som ansluter till WiFi, mäter avstånd med en ultraljudssensor, visar datum & tid på en LCD-skärm, piper med buzzer och blinkar med en LED om något är närmare än 100 cm.
@@ -26,3 +27,6 @@ Ett projekt med Raspberry Pi Pico W som ansluter till WiFi, mäter avstånd med 
 
 [Pico W] [HC-SR04] [LCD] [LED] [Buzzer] 17 -------- Trigger
 16 <-------- Echo 4 -------- SDA (I2C) 5 -------- SCL (I2C) 15 --------> LED (+) ---|>|--- 330Ω --- GND 14 --------> Buzzer + GND ---------------------------- GND 3.3V ---------------------------- VCC (LCD + HC-SR04)
+=======
+#Min docker projekt
+>>>>>>> Stashed changes
