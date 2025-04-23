@@ -11,6 +11,21 @@ Ett projekt med Raspberry Pi Pico W som ansluter till WiFi, mäter avstånd med 
 - 🔔 Buzzer-pip vid rörelse under 100 cm
 - 💡 LED blinkar samtidigt med buzzer
 
+## Installation
+
+### Förberedelser
+
+För att kunna bygga och köra projektet behöver du klona Pico SDK, som är nödvändigt för att utveckla på Raspberry Pi Pico. Följ stegen nedan för att installera Pico SDK och klona projektet:
+
+### 1. Klona Pico SDK
+
+Först behöver du klona **Pico SDK** om du inte redan har gjort det:
+
+```bash
+git clone --recurse-submodules https://github.com/raspberrypi/pico-sdk.git
+
+```
+
 ## 🧪 Använda komponenter
 
 | Komponent | Pin på Pico |
